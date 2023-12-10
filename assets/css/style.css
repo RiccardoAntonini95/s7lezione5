@@ -1,0 +1,12 @@
+main{
+    background: linear-gradient(49deg, rgba(2,0,36,1) 0%, rgba(202,83,83,1) 50%, rgba(255,0,0,1) 100%);
+}
+
+.card-img-top{
+    height: 10em;
+    object-fit: cover;
+}
+
+.row{
+--bs-gutter-y: 2rem;
+}
